@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.image{
+width:120px ;
+/* background-color: #fde8e2 */
+}
+.images{
+  width:80px ;
+  /* background-color: #fde8e2 */
+  }
+
+.rectangle {
+  width: 500px;
+  height: 250px;
+  justify-content: center;
+  border-radius: 10px;
+  border: dashed 2.5px #fa866a;
+  background-color: #FBEBE7;
+  text-align: center;
+}
+.wrapper.active{
+  visibility: visible;
+}
+
+.wrapper{
+  visibility: hidden;
+}
